@@ -14,7 +14,7 @@ public class Terreno {
     private double ancho;
     private double largoM;
     private double valorMcuadrado;
-    private double valorFactura;
+    
     private double area;
     private double costo;
 
